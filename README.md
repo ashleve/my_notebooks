@@ -2,7 +2,7 @@
 Render/share Jupyter Notebook from github conveniently <br>
 https://nbviewer.jupyter.org
 
-Convert notebook to .py 
+Convert notebook to .py <br>
 https://github.com/jupyter/nbconvert
 
 Create delightful python projects using Jupyter Notebooks <br>
